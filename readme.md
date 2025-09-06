@@ -22,3 +22,9 @@ The churn_prototype_elt_dbt project describes a pipeline for
 The churn_prototype_etl project (as shown in the README.md) uses scikit-learn for 
 - training and evaluation, and - provides scripts for training, evaluating, batch scoring, and serving the model via FastAPI..
 ---
+
+
+## Screenshots of churn_optuna_mlflow
+![Experiments Sorted by Accuracy](churn_optuna_mlflow/image.png)
+![Trail with Highest accuracy](churn_optuna_mlflow/image-1.png)
+![Metrics of the selected model](churn_optuna_mlflow/image-2.png)
