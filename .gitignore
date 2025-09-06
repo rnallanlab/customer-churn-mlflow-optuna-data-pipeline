@@ -1,0 +1,11 @@
+target/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.idea/
+.vscode/
+*.log
+mlruns/
+mlflow.db

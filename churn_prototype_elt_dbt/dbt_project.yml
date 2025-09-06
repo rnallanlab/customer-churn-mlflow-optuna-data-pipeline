@@ -1,0 +1,8 @@
+name: churn_elt
+version: 1.0
+config-version: 2
+profile: churn_elt
+model-paths: ["models"]
+target-path: "target"
+clean-targets:
+  - "target"
