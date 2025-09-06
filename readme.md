@@ -20,5 +20,5 @@ The churn_prototype_elt_dbt project describes a pipeline for
 ---
 ## churn_prototype_etl
 The churn_prototype_etl project (as shown in the README.md) uses scikit-learn for 
-- training and evaluation, and - provides scripts for training, evaluating, batch scoring, and serving the model via FastAPI.
+- training and evaluation, and - provides scripts for training, evaluating, batch scoring, and serving the model via FastAPI..
 ---
