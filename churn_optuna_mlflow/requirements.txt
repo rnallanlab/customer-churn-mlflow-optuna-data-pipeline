@@ -1,0 +1,8 @@
+mlflow
+optuna
+scikit-learn
+xgboost
+pandas
+numpy
+
+pip install mlflow optuna scikit-learn xgboost pandas numpy

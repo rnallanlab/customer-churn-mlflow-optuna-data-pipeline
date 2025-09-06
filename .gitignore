@@ -9,3 +9,7 @@ __pycache__/
 *.log
 mlruns/
 mlflow.db
+*/mlflow/data
+
+# Ignore generated data from the churn_optuna_mlflow project
+churn_optuna_mlflow/data/
